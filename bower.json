@@ -1,0 +1,14 @@
+{
+  "name": "ben",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "ember": "~1.9.1",
+    "ember-data": "beta",
+    "bootstrap": "~3.3.1"
+  }
+}
